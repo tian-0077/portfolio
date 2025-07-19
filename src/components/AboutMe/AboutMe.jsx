@@ -35,7 +35,7 @@ const aboutmeData = [
   },
 ];
 
-const aboutme = () => {
+const AboutMe = () => {
   const [hasLiked, setHasLiked] = useState(false);
   return (
     <div className="">
@@ -69,4 +69,4 @@ const aboutme = () => {
   );
 };
 
-export default aboutme;
+export default AboutMe;

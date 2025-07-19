@@ -4,7 +4,8 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar";
 import Hero from "./components/Hero/Hero";
-import AboutMe from "./components/AboutMe/aboutme";
+import AboutMe from "./components/AboutMe/AboutMe";
+
 import Skills from "./components/Skills/Skills";
 import { loadFull } from "tsparticles";
 import Particles from "react-tsparticles";

@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  background-color: #0d1117; /* or any dark color to make particles visible */
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
